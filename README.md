@@ -1,4 +1,4 @@
-# Projeto: Página de Modelo Fictícia - Anna Bella
+# Página de Modelo Fictícia - Anna Bella
 
 Este projeto é parte do curso de desenvolvimento web e consiste na criação de um site estático para uma modelo fictícia chamada Anna Bella. O site foi desenvolvido utilizando apenas HTML e CSS básico, com o objetivo de praticar e demonstrar habilidades fundamentais em design e codificação web.
 
