@@ -11,8 +11,8 @@ Este projeto é parte do curso de desenvolvimento web e consiste na criação de
 
 ## Tecnologias Utilizadas
 
-- HTML: Estruturação do conteúdo do site, utilizando elementos semânticos para melhorar a acessibilidade e SEO.
-- CSS: Estilização do site, focando em layouts responsivos e design atraente com CSS básico.
+- HTML: Estruturação do conteúdo do site
+- CSS: Estilização do site com CSS básico.
 
 - ## Preview
 
