@@ -14,7 +14,7 @@ Este projeto é parte do curso de desenvolvimento web e consiste na criação de
 - HTML: Estruturação do conteúdo do site
 - CSS: Estilização do site com CSS básico.
 
-- ## Preview
+## Preview
 
 - https://nunesgustavoo.github.io/ProjetoAnnaBella/
 
